@@ -1,14 +1,10 @@
 # spotify-image-tool
-Get certain types of images from Spotify:
-- Artist profile pictures
-- Song (track) cover images
-- Album and compilation covers
-- Playlist covers
+Get images from Spotify: the profile picture of an artist or the cover image of a song, an album, or a playlist.
 
 ## How do I use this tool?
-Go here: https://promisecoder.github.io/spotify-image-tool/.
+Head over to the web page: https://promisecoder.github.io/spotify-image-tool/.
 
-Input the URL or the ID of a Spotify page. Get an image.
+Input the URL (or the ID) of a Spotify page.
 
 ## What did you use to make this tool?
 The basics: Google, Stack Overflow, and the Spotify API documentation
