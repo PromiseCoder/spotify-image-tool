@@ -1,8 +1,8 @@
 # spotify-image-tool
-Get (certain types of) images from Spotify:
+Get certain types of images from Spotify:
 - Artist profile pictures
-- Song/track cover images
-- Album covers
+- Song (track) cover images
+- Album and compilation covers
 - Playlist covers
 
 ## How do I use this tool?
