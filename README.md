@@ -1,5 +1,5 @@
 # spotify-image-tool
-Get images from Spotify: the profile picture of an artist or the cover image of a song, an album, or a playlist.
+Get images from Spotify: the profile pictures of artists and the cover images of songs, albums, and playlists.
 
 ## How do I use this tool?
 Head over to the web page: https://promisecoder.github.io/spotify-image-tool/.
